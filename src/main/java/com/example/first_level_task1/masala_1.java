@@ -4,10 +4,6 @@ import java.util.Arrays;
 
 public class masala_1 {
     public static void main(String[] args) {
-
-        short rows = 7;
-        short columns = 7;
-
         short[][] array = new short[7][7];
 
         short x = (short) (Math.random() * (7 + 1));
