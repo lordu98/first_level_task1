@@ -3,6 +3,7 @@ package com.example.first_level_task1;
 public class masala_2 {
     public static void main(String[] args) {
 
+        // PROBLEM INFINITY
         int N = (int) (Math.random() * ((1018 - 1) + 1)) + 1;
         System.out.println(N);
 
